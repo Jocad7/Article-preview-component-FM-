@@ -4,8 +4,6 @@ const shareOpt = document.querySelector('.share-top');
 
 shareBtn.addEventListener('click', ()=>{
     shareOpt.classList.toggle('inactive')
-    // shareBtn.classList.toggle('shareIcon-container-clicked');
-    // shareIcon.classList.toggle('share-icon-toggle')
     const shareIconColor = shareIcon.getAttribute('fill');
     if(shareIconColor === '#6E8098'){
         shareIcon.setAttribute('fill', 'var(--Light-Grayish-Blue)');
