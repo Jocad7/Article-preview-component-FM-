@@ -1,6 +1,10 @@
 # Article-preview-component-FM-
 Frontend mentor challenge, Article preview component
 
+### Screenshot
+
+![Screenshot](./assets/screenshot.png)
+
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
