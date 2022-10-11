@@ -16,7 +16,7 @@ $\color[RGB]{54,148,77} $
 - CSS custom properties
 - Flexbox
 
-### $\color[RGB]{54,148,77} What I learned $
+### $\color[RGB]{54,148,77} What$ $\color[RGB]{54,148,77} I$ $\color[RGB]{54,148,77} learned$
 
 - Basic positioning in html
 - How to make a "bubble text dialog" with css
