@@ -19,5 +19,5 @@ Frontend mentor challenge, Article preview component
 
 ## Author
 
-- Website - [Repl](https://article-preview-component-fm.jocad7.repl.co)
+- Website - [Live website](https://article-preview-component-theta-eight.vercel.app)
 - Frontend Mentor - [@Jocad7](https://www.frontendmentor.io/profile/Jocad7)
